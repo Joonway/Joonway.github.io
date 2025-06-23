@@ -6,11 +6,11 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
+      zh-Hans : &ZH_HANS  分类
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
+      zh-Hant : &ZH_HANT  分类
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       ko      : &KO       아카이브
@@ -32,11 +32,11 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
+      zh-Hans : &ZH_HANS  简介
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
+      zh-Hant : &ZH_HANT  简介
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       ko      : &KO       소개
