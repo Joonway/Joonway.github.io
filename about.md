@@ -26,11 +26,7 @@ titles:
 key: page-about
 ---
 
-# 简介
-
- ![](C:\Joonway.github.io\assets\android-chrome-192x192.png)
-
-## 梁钧玮  (Liang Junwei)
+##  梁钧玮  (Liang Junwei)
 
 - 个人简介
 
