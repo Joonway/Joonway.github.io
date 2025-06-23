@@ -1,30 +1,6 @@
----
-layout: article
-titles:
-  # @start locale config
-  en      : &EN       简介
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  简介
-  zh      : *ZH_HANS  简介
-  zh-CN   : *ZH_HANS  简介
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-  fr      : &FR       À propos
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
-key: page-about
----
+# 梁钧玮（Liang Junwei）
+
+
 
 ## Introduction
 
@@ -36,16 +12,16 @@ key: page-about
 
   joonway@outlook.com
 
-  
+
+
 
 ## Timeline
 
 - none
 
-  
+
+
 
 ## News
 
 - none
-
-  
