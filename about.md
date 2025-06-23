@@ -26,19 +26,26 @@ titles:
 key: page-about
 ---
 
+## Introduction
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+- 个人简介
+
+  none
+
+- 联系方式
+
+  joonway@outlook.com
+
+  
 
 ## Timeline
 
 - none
 
-## Skins
+  
+
+## News
 
 - none
 
-## Highlight Theme
-
-- none
+  
