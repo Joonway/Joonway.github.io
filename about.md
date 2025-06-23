@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: 
+titles:
   # @start locale config
   en      : &EN       简介
   en-GB   : *EN
@@ -10,7 +10,7 @@ titles:
   zh-Hans : &ZH_HANS  简介
   zh      : *ZH_HANS  简介
   zh-CN   : *ZH_HANS  简介
-  zh-SG   : *ZH_HANS  简介
+  zh-SG   : *ZH_HANS
   zh-Hant : &ZH_HANT  關於
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
@@ -27,35 +27,18 @@ key: page-about
 ---
 
 
-
-##  梁钧玮  (Liang Junwei)
-
-- 个人简介
-
-  none
-
-- 研究方向
-
-  none
-
-- 联系方式
-
-  Joonway@outlook.com
-
-  
+```javascript
+(() => console.log('Hello, World!'))();
+```
 
 ## Timeline
 
 - none
 
-
-
-## News
+## Skins
 
 - none
 
-
-
-## Publications
+## Highlight Theme
 
 - none
