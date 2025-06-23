@@ -1,6 +1,6 @@
 ---
 layout: article
-titles:
+titles: 
   # @start locale config
   en      : &EN       简介
   en-GB   : *EN
@@ -8,9 +8,9 @@ titles:
   en-CA   : *EN
   en-AU   : *EN
   zh-Hans : &ZH_HANS  简介
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
+  zh      : *ZH_HANS  简介
+  zh-CN   : *ZH_HANS  简介
+  zh-SG   : *ZH_HANS  简介
   zh-Hant : &ZH_HANT  關於
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
@@ -25,6 +25,8 @@ titles:
   # @end locale config
 key: page-about
 ---
+
+
 
 ##  梁钧玮  (Liang Junwei)
 
