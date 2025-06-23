@@ -1,25 +1,29 @@
-# Introduction
+**梁钧玮 (Liang Junwei)**
 
-
-
-**梁钧玮（Liang Junwei）**
-
-*Je me révolte, donc nous sommes.*
+​	*Je me révolte, donc nous sommes.*
 
 ------
 
-**个人简介**	
 
-​	none
+
+**个人简介**
+
+​		none
+
+
 
 **联系方式**	
 
-​	joonway@outlook.com
+​		joonway@outlook.com
+
+
 
 **Timeline**	
 
-​	none
+​		none
+
+
 
 **News**
 
-​	none
+​		none
